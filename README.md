@@ -1,7 +1,7 @@
 `Hey I'm morgan. I'm a developer in JavaScript and TypeScript.`
 
 **my to do list**<br>
-    `-` *Post code for bot designer for Discord.*<br>
+    `-` *Post codes for bot designer for Discord.*<br>
     `-` *Create an easy Api manager package.*<br>
     `-` *Create an package for import discord.js function to bot designer for discord as apis.* <br>
 
